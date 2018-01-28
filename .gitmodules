@@ -1,0 +1,6 @@
+[submodule "ic-hack-client"]
+	path = ic-hack-client
+	url = https://github.com/HashanP/ic-hack-client
+[submodule "ic-hack-server"]
+	path = ic-hack-server
+	url = https://github.com/HashanP/ic-hack-server
